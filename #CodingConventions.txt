@@ -1,0 +1,5 @@
+~Classes~
+Every class' name word on caps: (for example: BartSimpson, Bistro)
+public members on lowercases separated with underscores: (for example: bart_simpson, bistro)
+private members on lowercases starting with underscores, the second word starts on caps: (for example: _bartSimpson, _bistro)
+methods on lowercases separated with underscores (for example: bart_simpson, bistro)
