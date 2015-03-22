@@ -1,1 +1,0 @@
-This folder is for cell-parts such as. A digit, an internal clock... Al the parts we use to create a device
