@@ -36,9 +36,10 @@ void StopClock::reset(){
 
 void StopClock::start(){
 	_END = false;
+
 	while (_END == false)
 	{
-
+		
 	}
 
 }	//End start
